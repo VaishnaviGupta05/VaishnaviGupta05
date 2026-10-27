@@ -19,30 +19,6 @@
 
 <table>
 <tr>
-<td width="50%" valign="middle" align="center">
-
-<img src="https://github.com/VaishnaviGupta05.png" width="250" alt="GitHub profile portrait" />
-
-</td>
-<td width="50%" valign="middle">
-
-```text
-vaishnavi@github
-----------------
-USER     Vaishnavi Gupta
-GITHUB   VaishnaviGupta05
-ROLE     Developer
-FOCUS    Software & Cybersecurity
-STATUS   Learning and Building
-```
-
-</td>
-</tr>
-</table>
-
-
-<table>
-<tr>
 <td width="35%" align="center" valign="middle">
 
 <img src="https://github.com/VaishnaviGupta05.png" width="200" alt="GitHub avatar" />
