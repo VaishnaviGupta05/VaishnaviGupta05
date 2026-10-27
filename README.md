@@ -1,50 +1,103 @@
-# Hi, I'm Vaishnavi Gupta 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Software+Developer;Cybersecurity+Enthusiast;Building+Projects+and+Learning" alt="Typing SVG" />
-</p>
+# `Vaishnavi Gupta`
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VaishnaviGupta05&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
-</p>
+### `Developer` · `Problem Solver` · `Tech Enthusiast`
 
-## 👩‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=Building+projects+that+solve+problems;Learning+and+shipping+every+day;Exploring+software+and+cybersecurity" alt="Animated introduction" />
+
+<img src="https://komarev.com/ghpvc/?username=VaishnaviGupta05&style=flat-square&color=39d353&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/VaishnaviGupta05?style=flat-square&color=39d353&label=FOLLOWERS" alt="Followers" />
+<img src="https://img.shields.io/github/stars/VaishnaviGupta05?style=flat-square&color=39d353&label=STARS" alt="Stars" />
+
+</div>
+
+---
+
+## `~/profile $ neofetch`
+
+<table>
+<tr>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://github.com/VaishnaviGupta05.png" width="200" alt="GitHub avatar" />
+
+</td>
+<td valign="top">
+
+```text
+vaishnavi@github
+----------------
+USER     : Vaishnavi Gupta
+HANDLE   : VaishnaviGupta05
+ROLE     : Developer
+FOCUS    : Software Development
+INTEREST : Cybersecurity & Web
+STATUS   : Learning and Building
+```
+
+</td>
+</tr>
+</table>
+
+## `// About Me`
 
 - 🎓 Computer Science student
 - 💻 Interested in software development and cybersecurity
-- 🚀 Learning by building projects
-- 🌱 Always exploring new technologies
+- 🚀 Learning by building practical projects
+- 🌱 Exploring new technologies and improving problem-solving skills
+- 🤝 Interested in open-source collaboration
 
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,git,github,vscode" alt="Tech stack" />
-</p>
-
-## 📊 GitHub Stats
+## `// Tech Stack`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaishnaviGupta05&show_icons=true&theme=tokyonight" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviGupta05&layout=compact&theme=tokyonight" height="165" alt="Top languages" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,git,github,vscode" alt="Technology stack" />
 </p>
 
-## 📈 Contribution Activity
+## `// GitHub Statistics`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaishnaviGupta05&theme=tokyo-night" width="100%" alt="Contribution activity graph" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VaishnaviGupta05&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=39d353&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviGupta05&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top programming languages" />
 </p>
 
-## 🐍 Contribution Snake
+## `// Contribution Streak`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VaishnaviGupta05/VAISHNAVI-Gupta/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviGupta05&theme=github-dark-blue&hide_border=true&background=0D1117" alt="Contribution streak" />
 </p>
 
-## 📌 My Projects
+## `// Live Contribution Activity`
 
-- [Jantar Mantar Run](https://github.com/VaishnaviGupta05/jantar-mantar-run)
-- [Explore My Repositories](https://github.com/VaishnaviGupta05?tab=repositories)
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VaishnaviGupta05&bg_color=0d1117&color=c9d1d9&line=39d353&point=58a6ff&area=true&hide_border=true" alt="Contribution activity graph" />
+</p>
 
-## 📫 Connect With Me
+## `// Contribution Snake`
 
-- GitHub: [@VaishnaviGupta05](https://github.com/VaishnaviGupta05)
+<p align="center">
+<img width="100%" src="https://raw.githubusercontent.com/VaishnaviGupta05/VaishnaviGupta05/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+</p>
+
+## `// Featured Projects`
+
+- 🏃 [Jantar Mantar Run](https://github.com/VaishnaviGupta05/jantar-mantar-run)
+- 💻 [Explore all my repositories](https://github.com/VaishnaviGupta05?tab=repositories)
+
+## `// Connect With Me`
+
+<p align="center">
+<a href="https://github.com/VaishnaviGupta05">
+<img src="https://img.shields.io/badge/GitHub-VaishnaviGupta05-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
+`CODE` · `CREATE` · `LEARN` · `REPEAT`
+
+<sub>Stats and activity cards refresh through their providers. The contribution snake is generated by GitHub Actions.</sub>
+
+</div>
